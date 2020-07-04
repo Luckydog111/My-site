@@ -22,9 +22,7 @@ body {
   padding: 0 0 20px 0;
   border-bottom: 10px solid #1c1309;
 }
-.page-header  {
 
-}
 
 header {
 display:flex;
@@ -59,6 +57,8 @@ padding: 40px 0px 40px 300px;
   opacity: 0.8;
  
   }
+
+
 
 .polosa{
 padding: 0px;
